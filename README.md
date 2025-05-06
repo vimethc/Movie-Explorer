@@ -38,5 +38,6 @@ To use the OMDb API, you must generate a free API key from [https://www.omdbapi.
 
 
 
-<img width="461" alt="Screenshot 2025-05-06 at 3 00 47 PM" src="https://github.com/user-attachments/assets/127096b2-0b11-4b36-9f4d-5ed1323d86a3" />
+![Screenshot_2025-05-06_at_3 00 47_PM-removebg-preview](https://github.com/user-attachments/assets/8686b47f-e794-4887-b10e-bfcadf65b2a2)
+
 

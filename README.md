@@ -1,6 +1,6 @@
 # 🎬 MovieExplorer App
 
-This is a Kotlin-based Android application developed as part of the **5COSC023C Mobile Application Development** coursework at the University of Westminster.
+This is a Kotlin-based Android application developed as part of the Mobile Application.
 
 The app is designed to help users search, view, and manage movie information using the **OMDb API** and a local **Room database**, all built with **Jetpack Compose** — no XML views or third-party libraries are used.
 
